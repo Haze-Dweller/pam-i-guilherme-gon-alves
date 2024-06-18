@@ -10,5 +10,9 @@
     "image": "./assets/splash.png",
     "resizeMode": "contain",
     "backgroundColor": "#25292e"
+  },
+
+  "icon": {
+    "image":"./assets/icon.png"
   }
 }
