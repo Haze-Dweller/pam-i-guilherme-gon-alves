@@ -4,5 +4,11 @@
     "slug": "Immaterial",
     "version": "1.0.0"
   },
-  "name": "Immaterial"
+  "name": "Immaterial",
+
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#25292e"
+  }
 }
